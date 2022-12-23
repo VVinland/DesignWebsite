@@ -1,0 +1,42 @@
+#Container{
+    width:100%;
+    margin:0px;
+    padding:0px;
+}
+#Container h1{
+    position:absolute;
+    text-align:center;
+    margin-top:200px;
+    margin-left:600px;
+    font-size:50px;
+    color:gold;
+}
+.Field{
+     text-align:right;
+     margin:20px;
+     line-height:25px;
+    
+}
+.Field label{
+    float:left;
+    font-size:20px;
+    font-family:Verdana, sans-serif;
+    padding-right:10px;
+    color:rgb(3, 6, 7);
+} 
+#Content{
+    float:left;
+    margin:400px;
+}
+.Field input{
+    border-radius:15px;
+}
+.Field textarea{
+    border-radius:15px;
+    resize:none;
+    width:300px;
+    height:40px;
+}
+/* .Field button{
+    font-size:5 0px;
+} */

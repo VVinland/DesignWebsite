@@ -1,0 +1,105 @@
+#Container {
+    margin: 0px;
+    padding: 0px;
+    width:100px;
+    height: 1000px;
+}
+#Container h1{
+    position:absolute;
+    margin-left: 600px;
+    margin-top: 250px;
+    font-size:50px;
+    color:red;
+}
+
+#Img01{
+    border:1px solid black;
+    width: 400px;
+    height: 400px;
+    position:absolute;
+    margin-left: 150px;
+    margin-top: 400px;
+    background:url("../img/Corporate.jpg") no-repeat;
+    background-size: 400px 400px;
+}
+#Img02{
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    position:absolute;
+    margin-left: 600px;
+    margin-top: 400px;
+    background:url("../img/Rent.jpg") no-repeat;
+    background-size: 400px 400px;
+    
+}
+#Img03{
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    position:absolute;
+    margin-left: 1050px;
+    margin-top: 400px;
+    background:url("../img/Fireworks.jpg") no-repeat;
+    background-size:400px 400px;;
+}
+.Link
+{
+    width: 100%;  
+    height: 100%;
+    position:absolute;
+}
+/* #Container{
+    width:100%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#Container h1{
+    font-size:34px;
+    font-family:Verdana, sans-serif;
+    color:red;
+ 
+    margin-top: 250px;
+    position:absolute;
+}
+#Container p{
+    margin-top: 350px;
+    float:left;
+    font-size: 24px;
+    margin-left:100px;
+
+}
+#Img01{
+    background:url("../img/Corporate.jpg") no-repeat;
+    background-size:100%;
+    width:400px;
+    height:400px;
+    margin-left: 150px;
+    margin-top: 400px;
+    position:absolute;
+}
+#Img02{
+    background:url("../img/Rent.jpg") no-repeat;
+    background-size:100%;
+    width:400px;
+    height:400px;
+    margin-left: 600px;
+    margin-top: 400px;
+    position:absolute;
+}
+#Img03{
+    background:url("../img/Fireworks.jpg") no-repeat;
+    background-size:100%;
+    width:400px;
+    height:400px;
+    margin-left: 1050px;
+    margin-top: 400px;
+    position:absolute;
+}
+.Link
+{
+    width: 100%;  
+    height: 100%;
+    position:absolute;
+} */

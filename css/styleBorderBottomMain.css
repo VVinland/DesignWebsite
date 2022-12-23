@@ -1,0 +1,50 @@
+#Footer{
+    padding:0px;
+    margin:0px;
+    width:100%;
+    background: rgba(82, 80, 80, 0.795);
+    overflow:hidden; 
+}
+
+#FooterLogo{
+
+    float:left;
+    margin:0px;
+    padding:0px;
+}
+#FooterLogo img{
+    height:100px;
+}
+#Footer h1{
+    float:left;
+    margin-left:300px;
+    color:red;
+}
+#Text{
+    float:left;
+    margin-Left:50px;
+    color:red;
+}
+#Bottons{
+    float:right;
+    text-align:center;
+}
+#Bottons a{
+    text-decoration:none;
+    display:block;
+    color:#333;
+    margin-right:50px;
+    margin-top:10px;
+    font-size:30px;
+    font-family:Verdana, sans-serif;
+    background:#c7c7c7c7;
+    border-radius:20px;
+
+    
+}
+#Bottons a:hover{
+    background: gold;
+}
+#Bottons a:active{
+    background: green;
+}

@@ -1,0 +1,96 @@
+body {
+    margin: 0px;
+    padding:0px;
+    width:100%;
+    Height: auto;
+    background: url("../img/BackMiddleMain.jpg") no-repeat;
+    background-size:100% 100%;
+    
+}
+
+ #MainBorder {
+    /* border: 1px solid black; */
+    max-height: auto;
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+
+    
+ }
+Header {
+    
+    width: 100%;
+    height: 100px;
+    background:black;
+} 
+
+
+#MenuTop {
+    /* border: 1px solid black; */
+    width: 800px;
+    height: 100px;
+    position:relative;
+    margin:0p;
+    padding:0px;
+    left: 200px;
+    float:left;
+    
+}
+#MenuTop ul{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    margin-top:30px;
+    padding:0px;
+}
+#MenuTop li{
+    list-style-type:none;
+}
+#MenuTop a{
+    text-decoration:none;
+    font-size:26px;
+    font-family:Verdana;
+    color:red;
+    margin:0p;
+    padding:0px;
+}
+#MenuTop a:hover{
+    background: gold;
+}
+#MenuTop a:active{
+    background:green;
+}
+
+#logo{
+    float:left;
+}
+#logo img{
+    height: 100px;
+    margin-left:200px;
+}
+
+#BtnRequest{
+    text-align: center;
+    float:right;
+    margin-right:100px;
+    margin-top: 10px;
+    background: #c7c7c7;
+    border-radius:20px;
+    width:150px;
+    height:70px;
+    cursor:pointer;
+    padding-top:12px;
+}
+#BtnRequest a{
+    font-size: 26px;
+    font-family:Verdana;
+    text-decoration:none;
+    color: #333;
+}
+/* #BtnRequest a:hover{
+    background:gold;
+} */
+#BtnRequest:active{
+    background:green;
+}

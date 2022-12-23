@@ -1,0 +1,30 @@
+#Container {
+    
+    background-size: 100% 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 1000px;
+}
+
+#Content {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 550px;
+    margin-left: 670px;
+   
+}
+
+ #Content h1 {
+    font-size: 40px;
+    font-family: Verdana;
+    color: red;
+    margin-left: 70px;
+    
+}
+
+#Content p {
+    font-size: 28px;
+    font-family: Verdana;
+    color: red;
+} 
